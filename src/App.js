@@ -24,6 +24,7 @@ const App = () => {
                 <Home /> {/* Añadir Home aquí */}
                 <About />
                 <section id="portfolio">
+                    
                     <ProjectList />
                 </section>
                 <Skills />
