@@ -20,7 +20,7 @@ const About = () => {
                     />
                     <p>Hola, soy Kerly, estudiante de desarrollo web apasionada por aprender y crear aplicaciones web. Me especializo en frontend y backend, y disfruto trabajando con tecnologías modernas para construir soluciones innovadoras.</p>
                     <p>En mi portafolio, encontrarás proyectos que muestran mis habilidades en HTML, CSS, JavaScript, React, Node.js, y más. Siempre estoy buscando nuevas oportunidades para mejorar mis habilidades y aprender nuevas tecnologías.</p>
-                    <a href="/CVkerlySantosEN.pdf" download="Kerly_CV.pdf" className="download-cv-btn">Descargar CV</a>
+                    <a href="/CVKerlySantos_compressed.pdf" download="Kerly_CV.pdf" className="download-cv-btn">Descargar CV</a>
                     <div className="social-icons">
                         <a href="https://www.linkedin.com/in/kerly-katiuska-santos-prieto-/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
                         <a href="https://github.com/kerlysantos" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
